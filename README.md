@@ -1,36 +1,41 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# 🎨 Artist Portfolio Website
 
-## Getting Started
+A modern, minimal, and visually engaging portfolio website built for an artist to showcase their work, style, and creative identity.
 
-First, run the development server:
+🔗 **Live Demo**: https://hathim-website-7reo-o8i5ib7qt-irshadkmpm656gmailcoms-projects.vercel.app/ 
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+---
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## ✨ Overview
 
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
+This project is a clean and aesthetic portfolio designed to highlight artwork in a smooth and immersive experience.  
+Focused on **minimalism, smooth scrolling, and subtle animations** to enhance visual storytelling.
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+---
 
-## Learn More
+## 🚀 Features
 
-To learn more about Next.js, take a look at the following resources:
+- 🎨 Minimal & modern UI design
+- ⚡ Smooth scrolling experience (Lenis)
+- 🎬 Fluid animations (Framer Motion)
+- 📱 Fully responsive across all devices
+- 🖼️ Gallery-style project showcase
+- 🌙 Clean typography & spacing for visual clarity
+- ⚡ Optimized performance with Next.js
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+---
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+## 🛠️ Tech Stack
 
-## Deploy on Vercel
+- **Framework:** Next.js 16  
+- **Frontend:** React 19  
+- **Styling:** Tailwind CSS 4  
+- **Animations:** Framer Motion  
+- **Smooth Scroll:** Lenis  
+- **Icons:** Lucide React  
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+---
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+## 📸 Screenshots
+
+>
