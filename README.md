@@ -1,5 +1,4 @@
-<img width="1920" height="913" alt="Screenshot (470)" src="https://github.com/user-attachments/assets/370ee6a6-811b-47ea-a19f-d09202497f6d" />
-<img width="1920" height="903" alt="Screenshot (471)" src="https://github.com/user-attachments/assets/96eab6c5-e58b-4556-a190-b03e7a11fe11" />
+
 # 🎨 Artist Portfolio Website
 
 A modern, minimal, and visually engaging portfolio website built for an artist to showcase their work, style, and creative identity.
@@ -38,6 +37,24 @@ Focused on **minimalism, smooth scrolling, and subtle animations** to enhance vi
 
 ---
 
+---
+
+## ⚙️ Installation & Setup
+
+```bash
+# Clone the repo
+git clone https://github.com/Irshad-konnola/hathim-website.git
+
+# Navigate to project
+cd hathim-website
+
+# Install dependencies
+npm install
+
+# Run development server
+npm run dev
+
 ## 📸 Screenshots
 
->
+>(<img width="1920" height="913" alt="Screenshot (470)" src="https://github.com/user-attachments/assets/370ee6a6-811b-47ea-a19f-d09202497f6d" />
+<img width="1920" height="903" alt="Screenshot (471)" src="https://github.com/user-attachments/assets/96eab6c5-e58b-4556-a190-b03e7a11fe11" />)
