@@ -1,3 +1,6 @@
+## 🧠 Concept
+
+Designed to create a distraction-free environment where the artwork speaks for itself, using motion and smooth transitions to enhance user engagement.
 
 # 🎨 Artist Portfolio Website
 
